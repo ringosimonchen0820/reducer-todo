@@ -6,7 +6,7 @@ export const initialState = {
             id: 124212
         },
         {
-            item: 'Learn about reducers',
+            item: 'Learn about redux',
             completed: false,
             id: 1581053805
         },
